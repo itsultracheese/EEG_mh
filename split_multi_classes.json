@@ -1,0 +1,1498 @@
+{
+    "ChMR_m37_f45-4_As_Ep_No_T_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "ChMR_m37_f45-4_f60-9_As_Ep_No_T_og": {
+        "split": "test",
+        "target": "stress"
+    },
+    "DrLu_f39_f45-9_Ep_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "FoMa_f32_f45-4_At_Ep_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "GaAP_m19_f60-3_f42-8_f32-1_f45-2_Nr_As_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "Grin_m40_f45_No_Ep_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "GuTR_m20_f45-3_As_No_Ne_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "IzOA_f34_f45-8_Nk_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "IzOA_f34_f60-3_f45-8_Nk_og": {
+        "split": "test",
+        "target": "stress"
+    },
+    "NaNA_f27_f45-1_Nr_At_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "StDF_m28_f45-2_T_At_Ne_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "TurO_f24_f45-0_As_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "AiAm_m21_f43-2_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "AiLR_f35_f43-2_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "AlDA_m21_f_f43-2_As_Nh_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "BoER_f56_f41-2_f43-2_T_As_Nk_og": {
+        "split": "test",
+        "target": "stress"
+    },
+    "DmSN_m29_f43-2_f10-2_Nh_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "FaSD_f27_f43-1_As_Ep_Nq_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "FiPA_m39_f43-2_T_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "GaEY_f36_f43-0_f41-2_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "GaVK_m22_f43-2_og": {
+        "split": "test",
+        "target": "stress"
+    },
+    "IvaS_f58_f43-2_T_Nh_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "LaAA_m49_f43-2_f41-2_T_No_As_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "LaAU_f58_f43-0_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "LaAU_f59_f43-0_og": {
+        "split": "test",
+        "target": "stress"
+    },
+    "MaEA_f60_f41-2_f43-0_As_Ns_At_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "MoDO_f16_f43-2_og": {
+        "split": "test",
+        "target": "stress"
+    },
+    "MuDR_f49_f43-0_f41-2_Nh_As_Ep_T_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "ObmI_m20_f43-2_T_As_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "OcsA_m15_f43-3_No_P_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "PetV_m25_f43-2_T_As_At_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "RoRu_m10_f43-2_Nt_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "SmGS_f55_f43-2_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "TrIV_f51_f43-0_f23-01_Ng_T_og": {
+        "split": "train",
+        "target": "stress"
+    },
+    "BiNA_f52_f51-0_As_og": {
+        "split": "test",
+        "target": "stress"
+    },
+    "LeNM_f15_f50-2_f41-1_f92-9_As_No_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "AnAA_m21_f21_f48-0_At_Nk_Ep_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "GaAA_m30_f48-0_og": {
+        "split": "val",
+        "target": "stress"
+    },
+    "AbVA_f19_f60-3_41-2_Nt_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "AlLS_f33_f41-2_T_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "BeAn_f24_f32-1_f41-2_Nk_Ep_At_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "BeAn_f25_f41-2_Nk_Ep_At_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "CherV_m60_f41-2_Ns_As_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "CjSA_f18_f41-2_T_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "DoNV_f33_f41-2_T_At_N_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "DoSo_f14_f41-2_Ep_Nk_At_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "DoSo_f15_f41-2_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "GaLe_f16_f41-2_f92-8_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "GrVA_m14_f42-1_f98-9_Ep_Nt_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "GuEU_f40_f41-2_32-1_f60-3_T_Ep_Nk_As_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "IvSA_f62_f41-2_f13-2_As_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "KoLV_f35_f41-2_T_No_At_Ep_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "KuKS_m32_f41-2_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "MaEl_f20_f41-2_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "MaMa_f45_f41-2_T_At_Nq_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "MaVS_f40_f41-2_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "MerM_f19_f60-3_f41-2_As_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "MyaM_f45_f41-2_At_As_Nq_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "OnAP_m38_f41-2_Ep_Nq_As_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "PoIP_f22_f60-3_f41-2_Na_As_Ep_ог": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "PoIP_f22_f60-3_f41-2_Norn_As_Ep_Ns_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "PoPa_m35_f41-2_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "PoUU_f34_f41-2_Nq_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "Port_f40_f41-2_As_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "PrPo_f17_f41-2_f41-2_Nh_Ep_As_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "RoEE_f22_f41-2_Ns_As_Ep_At_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "SchE_f46_f41-2_f32-1 _og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "SchE_f46_f41-2_f32-1_T_N_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "StNV_f61_f41-2_Nk_T_As_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "SuUN_f45_f41-2_As_P_T_Na_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "VlMG_m44_F10-3_10-2_F41-2_T_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "VlMG_m46_F10-3_10-2_F41-2_Nk_As_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "VlMG_m46_F10-3_10-2_F41-2_Nk_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "VlMG_m46_F10-3_10-2_F41-2_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "ZbNa_f60_f32-1_f41-2_At_Nk_Ep_T_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "BeAB_m24_f41-2_f41-0_As_At_T_Ne_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "ChiY_f15_f92-9_f40_Ep_At_Np_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "DaAi_f28_f41-1_f41-0_Ep_As_Nk_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "EgVP_m21_f41-0_As_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "GraK_m28_f41-0_f41-2_T_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "KaAM_f53_f43-0_f41-0_Nt_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "MiAV_m57_f41-0_T_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "RaIn_f30_f41-0_At_No_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "RuGu_f53_f41-0_f43-0_At_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "RuVA_m22_f41-2_f41-0_Nq_As_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "TeEA_f89_F40-9_f06-4_Nk_Nt_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "ZaFV_m36_f41-0_T_As_Ep_No_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "ZuNA_f53_f40-8_Nk_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "ZvSV_m41_f41-0_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "BeMO_f33_f41-1_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "BeMO_m32_f41-1_As_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "ChiN_f51_f41-1_f41-2_f32-1_f10-2_Ns_As_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "GrOS_f32_f41-1_f41-2_Ns_At_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "IlFM_m49_f41-3_No_At_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "IlFM_m49_f41-3_T_Na_Nh_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "KraA_f17_f41-9_og": {
+        "split": "val",
+        "target": "anxiety"
+    },
+    "MaAA_f20_f41-1_At_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "NiEO_f32_f41-1_T_As_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "NikP_f21_f41-1_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "OgAP_m35_f41-1_f41-2_Ep_P_Nt_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "OsLV_f29_f41-1_f41-2_f41-0_T_At_Ep_Nt_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "Serp_m27_f41-1_f19-1_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "TruO_f39_f41-1_T_At_Ns_og": {
+        "split": "train",
+        "target": "anxiety"
+    },
+    "VaAI_f15_f41-3_Nz_og": {
+        "split": "test",
+        "target": "anxiety"
+    },
+    "AiIl_m36_f25-0_Nc_Ep_Na_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "AiVA_m26_f25-2_f31-6_Ep_P_Nc_og": {
+        "split": "val",
+        "target": "bipolar"
+    },
+    "Akop_f20_f31-6_Nk_Ep_As_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "AlAA_f28_f31-6_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "BobA_f23_f31-6_Ep_Nk_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "FiMV_f16_f25-2_f60-3_f31-6_Ep_T_Nh_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "GrEI_f42_f31-6_Li_As_T_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "GrK_f28_f31-6_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "KiSI_m31_f25-0_T_Ng_Ep_P_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "LaSS_f22_f31-6_Ep_Nq_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "MiAE_f19_f31-6_Ep_Nq_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "MoAA_m25_31-7_f25-0_Ep_Na_Nc_P_og": {
+        "split": "val",
+        "target": "bipolar"
+    },
+    "MoAA_m25_31-7_f25-0_Ep_Nh_og": {
+        "split": "val",
+        "target": "bipolar"
+    },
+    "MoAA_m26_31-7_f25-0_Ep_Na_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "OzVS_m35_f31-6_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "Shab_m37_f31-6_At_No_Ep_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "SuKV_m30_f31-6_As_Ep_No_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "VYMZ_f16_f31-8_Norm_As_Ep_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "VeMM_m34_f31-0_Ep_No_Ng_T_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "XlXE_f29_f31-6_f41-1_Ep_As_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "ZiAl_m36_f31-6_f19-2_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "ZiAl_m37_f31-6_f19-2_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "AdaN_f36_f32-2_f60-3_f31-8_Nt_Ep_As_P_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "BaV_m24_f31-3_f31-4_f31-6_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "BaV_m25_f31-3_f31-4_f31-6_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "DjSV_f15_f31-3-f92-8_Ep_Nh_og": {
+        "split": "val",
+        "target": "bipolar"
+    },
+    "KaAd_f22_f31-4_As_T_At_Ntr_og": {
+        "split": "val",
+        "target": "bipolar"
+    },
+    "KarV_m19_f31-4_f31-3_No_Ep_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "RadA_f24_f31-3_31-0_Li_No_As_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "TeNV_f38_f33-1_31-8_31-6_31-3_At_Nk_As_Ep_og": {
+        "split": "val",
+        "target": "bipolar"
+    },
+    "TeNV_f39_f33-1_31-8_31-6_31-3_At_Nk_As_Ep_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "TodD_m24_f31-6_f31-3_As_Nq_Ep_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "VahM_f20_F33-1_F41-2_f31-6_f25-2_P_Nk_As_No_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "Xar_m19_f31-4_f31-3_No_Ep_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "ZaAD_f21_f31-4_Nk_At_Nor_Ep_T_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "BoAn_f23_f34-0_f41-9_Ep_Nh_og": {
+        "split": "test",
+        "target": "bipolar"
+    },
+    "Pasc_f18_f34-0_As_Ep_Nq_og": {
+        "split": "train",
+        "target": "bipolar"
+    },
+    "SaMO_f21_f34-0_Ep_og": {
+        "split": "val",
+        "target": "bipolar"
+    },
+    "ALEXANDROVA_MARIA_21_EO_free": {
+        "split": "val",
+        "target": "control"
+    },
+    "ALEX_Buharev_21_EO_free": {
+        "split": "val",
+        "target": "control"
+    },
+    "AMEHINA_ANNA_ANDREEVA_27_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "ASY_SHAMUKAEVA_24_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "AtAs_m27_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "BETREDINOV_DINAR_27_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "BORUTTO_JANNA_VLADIMIROVNA_48_EO_free": {
+        "split": "val",
+        "target": "control"
+    },
+    "BuAn_m16_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "ChZo_f60_contr_og": {
+        "split": "val",
+        "target": "control"
+    },
+    "CheA_m28_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "CheV_m26_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "DENIS_23_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "DEN_KOZANCEV_20_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "DMITRII K_20_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "ErMA_m52_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "FRENKEL_LEONID_49_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "HUZINA_JULIA_29_og": {
+        "split": "val",
+        "target": "control"
+    },
+    "HuDa_m18_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "Ivano_f23_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "KAPYSTIN_KIRILL_34_EO_free": {
+        "split": "test",
+        "target": "control"
+    },
+    "KARISHEVA_ADELINA_49_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "KICHIKOV_LESHA_12_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "KOVTUNOV_IGOR_NORM_47_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "KRUGLOVA_JULIA_52_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "KUZNECOV_PAVEL_DMITRIEVICH_71_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "KisL_f49_contr_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "Kozancev_Denis_20_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "KruU_f38_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "Lari_f35_contr_og": {
+        "split": "val",
+        "target": "control"
+    },
+    "Levk_f30_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "MANUILOVA_ELENA_55_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "MARIA_23_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "Martinenko_m45_og": {
+        "split": "val",
+        "target": "control"
+    },
+    "MasA_m25_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "Masl_f40_contr_og": {
+        "split": "val",
+        "target": "control"
+    },
+    "MoTa_m38_contr_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "NAUMOVA_GALINA_36_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "POGODIN_51_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "PavE_f41_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "Permykov_Evgenii_18_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "Posohov_Serg_40_EO_free": {
+        "split": "train",
+        "target": "control"
+    },
+    "Preb_m14_contr_og": {
+        "split": "val",
+        "target": "control"
+    },
+    "RiKa_m33_contr_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "RoAU_m13_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "RyaG_m13_contr_og": {
+        "split": "val",
+        "target": "control"
+    },
+    "SAMARSKAY_ELENA_62_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "SHABASON_VLADIMIR_36_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "SHAPOVALOVA_OLESY_18_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "SHAS_f25_contr_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "SHMAKOTKIN_52_EO_free": {
+        "split": "val",
+        "target": "control"
+    },
+    "Sizyh_m27_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "SpEN_f26_contr_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "StKi_m21_contr_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "StOV_f69_contr_og": {
+        "split": "test",
+        "target": "control"
+    },
+    "TRUHANOV_PETR_26_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "Yash_m35_contr_og": {
+        "split": "train",
+        "target": "control"
+    },
+    "AirM_n16_f92-8_f32-0_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ArEV_f55_f41-9_f32-9_Ng_Ep_Nk_P_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "BeNA_f46_f32-8_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "DlE_f13_f32-0_f92-8_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "DmLV_f83_f07-9_f32-0_f01-9_Ng_Aa_C_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "GisA_f48_f32-8_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "JaAl_f19_f60-3_f32-0_Nk_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "KaT_m39_f32-8_As_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "MeAD_f19_f32-0_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "PaME_m19_f32-0_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "PogA_f14_f60-3_f32-0_Nr_P_Ep_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "PogA_f14_f60-3_f32-0_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "RomU_m16_f32-8_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "SaAM_f29_f32-0_As_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "ShatS_f24_f32-0_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "TuSV_m36_f32-0_T_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "UsA_m34_f32-0_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "UsA_m35_f32-0_Ep_As_Nq_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "AkiA_f15_f60-3_f32-1_At_Nt_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "AkiA_f15_f60-3_f32-1_Ep_Nh_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "AkiA_f16_f60-3_f32-1_Ep_Nh_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "AlDO_m20_f21_f32-1_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "AvSi_f28_f32-1_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "BeAS_f31_f32-1_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "BelE_f34_f32-1_At_Nk_As_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "FiAV_m50_f32-1_At_Nt_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "FiVA_m22_f32-1_Nq_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "FilVV_m21_f32-1_f60-3_At_Nr_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "GoOl_f49_f32-1_As_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "GoSV_m24_f32-1_Nr_P_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "GuVa_m20_f41-2_32-1_Ns_Ep_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "IsAE_f15_f32-1_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "KaAA_f22_f32-1_As_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "KaAB_f16_f32-1_As_Li_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "KnOA_f42_f32-1_At_Ep_Nk_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "KoSG_m61_f32-1_f41-2_N_As_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "KryDV_m24_f32-1_As_Ng_T_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "KuSM_f16_f32-1_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "KupE_f40_f32-1_Ep_Nq_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "LoGA_m36_f32-1_f61_Ep_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "MatA_f39_f32-0_f41-9_Nq_As_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "MiAD_m21_f32-1_As_P_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "MiAD_m21_f32-1_As_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "PaAV_f18_f32-1_Nk_As_Ep_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "PaAV_f19_f32-1_No_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "PaMA_f47_f32-1_T_As_Nq_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "PoKi_m20_f32-1_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "SaAV_m35_f32-1_T_At_Ns_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "SaEA_f70_f22-0_f32-1_Nr_P_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "SeAl_f18_f32-1_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "SeAl_f19_f32-1_At_Norm_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "Sheb_m20_f32-1_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "VaAA_f22_f41-2_f32-1_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "VlLV_m20_f32-1_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ZlGA_f48_f32-1_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "ElUA_f28_f33-1_At_As_Ep_Nq_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ErMA_f13_f92-8_f60-3_f33-1_Nz_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ErMA_f15_f92-8_f60-3_f33-1_Nk_Ep_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "GeEA_f17_f32-3_f25-1_Ep_Nr_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "GoEM_f20_f32-2_Ep_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "GoEM_f20_f32-2_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "GrNB_f14_f32-3_Ep_As_Norm_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "GrNB_f18_f32-3_Ep_As_Norm_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "HeiM_f73_f33-1_No_As_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "MaxD_m39_f33-1_As_Ne_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "MinR_m27_f33-1_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "MinR_m27_f33-1_f32-2_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "NauN_f72_f33-1_As_T_og": {
+        "split": "test",
+        "target": "depression"
+    },
+    "ObOA_f29_f33-2_f32-0_f39_P_Ne_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "PoPG_f22_f21_f33-1_f32-1_Nc_At_Ep_P_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ShEg_m21_f33-1_f32-1_Ep_As_N_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ShEg_m21_f33-1_f32-1_Ep_As_Nt_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "SiMa_m22_f33-1_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "SigE_m36_f41-2_f33-1_Nt_P_As_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "SlOU_f60_f32-2_At_No_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "VaYa_m34_f23-0_f32-2_f10-2_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ViTV_f53_f41-2_f33-1_f10-2_T_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "XXA_f17_f32-3_f25-1_Ep_Nr_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "XeXA_f17_f32-3_f25-1_Ep_Nr_As_og": {
+        "split": "train",
+        "target": "depression"
+    },
+    "ZaRe_m21_f41-2_f32-1_f33-1_og": {
+        "split": "val",
+        "target": "depression"
+    },
+    "AnfN_m25_f42-0_N_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "Oknina_YV_23_f42-0_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "PoEI_f23_f41-2_f42-0_f60-3_f16-1_Ep_As_Nt_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "SeSS_m30_f42-0_As_Nq_At_T_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "kopytin_vv_30_f42-0_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "maximov_boris_33_f42-0_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "surnova_v_29_f42-0_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "svetlana_35_f42-0_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "Потемкин НС_32_f42-0_ог": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "Прунин_БД_26_f42-0_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "козлов_еи_28_f42-0_ог": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "сергеечев сс 30_f42-0_ог": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Anastasia_23_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Balashova_UE_39_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Koptev_34_f42-1_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "Mereckovski_AA_32_f42-1_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "Olga_48_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "RaiD_m12_f92-8_f42-1_As_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "RebI_f51_f45-2_f41-2_f42-1_Ng_Ns_As_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Tinova_Alisa_26_f42-1_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "Vasiliev_IV_33_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "omarov_iU_25_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Александр Громов_42_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Ангелина_40_f42-1_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "Бондарь_вячеслав_33_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Гришко_олег_28_f42-1_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "Короленко_ЮВ_30_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Хромых Григорий_24_f42-1_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "волынова_илона_36_f42-1_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "капустин_ФИ_40_f42-1_ог": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "карпова_аа_32_f42-1_ог": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "поддубко сергей_35_f42-1_ог": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "уточкина ирина_27_f42-1_ог": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "чеберидзе геннадий_49_f42-1_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "чистов игорь_23_f42-1_ог": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Belkin Alex_20_f42-2_ОГ": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "Frim_m26_f42-2_As_Nq_N_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "GoAV_m39_f42-8_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Korkin_Vlad_24_f42-2_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "MiTi_m12_f42-2_f95-1_Nt_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "MiTi_m13_f42-2_f95-1_Nt_og": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "NaAB_m21_f42-2_f60-3_Ep_Ns_As_og": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "Инга_18_f42-2_ОГ": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "Сугробова_АА_43_f42-1_og": {
+        "split": "val",
+        "target": "ocd"
+    },
+    "ФРИМУЧКОВ_26_f42-2_ОГ": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "митрошин_тм_18_f42-2_ог": {
+        "split": "test",
+        "target": "ocd"
+    },
+    "науменко александра_f42-2_21_ог": {
+        "split": "train",
+        "target": "ocd"
+    },
+    "AbDM_f26_f60-3_Ep_Na_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "AnSo_f20_f60-3_T_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "ApVA_m32_f60-3_T_Ep_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "CheL_f23_f60-3_Nq_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "DaAV_f20_f60-3_T_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "DeAA_f16_f60-3_As_P_Na_Ne_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "DeVi_f17_f60-3_Norm_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "DiAV_f19_f60-3_Ep_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "DjAV_m21_f60-3_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "DrDA_f27_f60-3_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "ElDV_f21_f60-3_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "FedP_m34_f60-3_Ep_Nh_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "GarA_m29_f60-3_f19-2_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "GoAA_f19_f60-3_F60_30_Ep_N_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "GrSo_f21_f60-3_Nt_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "GraM_f16_f60-3_f19-2_Nc_P_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "GraM_f18_f60-3_f19-2_T_Ep_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "GuPS_m18_f60-3_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "IvAA_f18_f60-3_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "KaSo_f20_f60-3_f19-2_Nk_T_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "KalD_m42_f60-3_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "KimT_f36_f60-3_Ep_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "KoMG_f18_f60-3_As_Nq_Ep_Na_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "KoPV_f14_f60-3_No_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "LeMA_f23_f60-3_As_Ni_Nc_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "LyaA_m19_f60-3_Ep_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "MeAI_f18_f60-3_T_Nk_As_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "MirD_f28_f60-3_Ep_Nq_T_At_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "MoLA_f24_f60-3_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "MuEZ_f18_f60-3_og": {
+        "split": "test",
+        "target": "personality disorder"
+    },
+    "NeZl_f14_f60-3_f92-8_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "NuUM_m26_f60-3_Na_Ep_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "PoAA_f14_f60-3_Ep_P_Nr_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "PoAA_f14_f60-3_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "PokS_f20_f60-3_As_Ep_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "RoTV_f24_f60-3_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "Ryaz_f27_f60-3_T_Nt_Ep_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "SeKi_m21_f60-3_No_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "ShaE_f15_f60-8_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "SmMR_f18_f60-3_Ep_Norm_As_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "SoAA_f22_f60-3_At_Ep_As_Ne_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "StrM_f18_f60-3_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "SuNL_m25_f60-3_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "SuNV_m24_f60-3_f19-2_f19-3_Ng_Ep_T_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "TeVS_f15_f60-3_At_Ep_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "UmDH_m37_f60-3_f22-0_Ep_Nk_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "VaSA_m20_f60-3_og": {
+        "split": "val",
+        "target": "personality disorder"
+    },
+    "ViOV_m30_f60-3_T_Ep_As_Nk_og": {
+        "split": "train",
+        "target": "personality disorder"
+    },
+    "ZoEl_f33_f60-3_f60-4_f10-3_og": {
+        "split": "val",
+        "target": "personality disorder"
+    }
+}
